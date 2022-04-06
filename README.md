@@ -1,3 +1,3 @@
 # EstructuraDeDatos
-Repository del curso de Estrucutur De Datos en Java. 
+Repository del curso de Estructura De Datos en Java. 
 
