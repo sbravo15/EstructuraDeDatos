@@ -1,5 +1,9 @@
 # EstructuraDeDatos
-Repositorio del curso de Estructura De Datos en Java. 
+Repositorio del curso de Estructura De Datos en Java.
+Estructuras Vistas en Clase: 
+- Stack / Pila
+- Lista Enlazada - Linked List
+- Arbol
 
 ![Data Structures](images/Datastructures.png "Data Structures")
 
