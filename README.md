@@ -4,7 +4,7 @@ Repositorio del curso de Estructura De Datos en Java.
 ![Data Structures](images/Datastructures.png "Data Structures")
 
 
-### Strack - Pila
+### Stack - Pila
 ![Stack - Pila](images/Stack.png "Stack - Pila")
 
 
