@@ -14,4 +14,4 @@ Repositorio del curso de Estructura De Datos en Java.
 
 ### Tree - Arbol
 
-![Arbol Tree ] ( "Arbol - Tree")
+![Arbol Tree](images/treeds.png "Arbol - Tree")
